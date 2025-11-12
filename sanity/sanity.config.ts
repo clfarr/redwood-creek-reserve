@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'Redwood Creek Reserve',
 
-  projectId: 'your-project-id', // You'll need to replace this after creating a Sanity project
+  projectId: 'ta6i5fin', // You'll need to replace this after creating a Sanity project
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
